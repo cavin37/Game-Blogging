@@ -1,0 +1,39 @@
+h1{
+		text-align: center;
+		color: Green;
+}
+body{
+	background-image: url('back2.jpg');
+	background-repeat: no-repeat;
+  background-size: cover;
+}
+table
+{
+	border: solid 4px;
+	border-color: purple;
+	padding: 10px;
+}
+td
+{
+	border: solid 2px;
+	border-color: royalblue;
+	padding: 10px;
+}
+th
+{
+	border: solid 2px;
+	border-color: royalblue;
+	padding: 10px;
+	color: red;
+}
+.ok{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+} 
+.center {
+  margin: 0;
+  position: absolute;
+  top: 94%;
+  left: 48%;
+}

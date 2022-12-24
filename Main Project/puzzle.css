@@ -1,0 +1,81 @@
+.p1{
+	float: left;
+	top: 70px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.p2{
+	float: left;
+	top: 70px;
+	margin-left: 380px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.p3{
+	float: left;
+	top: 70px;
+	margin-left: 760px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.p4{
+	float: left;
+	top: 70px;
+	margin-left: 1150px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.p5{
+	float: left;
+	top: 300px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.p6{
+	float: left;
+	top: 300px;
+	margin-left: 380px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.p7{
+	float: left;
+	top: 300px;
+	margin-left: 760px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.p8{
+	float: left;
+	top: 300px;
+	margin-left: 1150px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.p9{
+	float: left;
+	top: 530px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.p10{
+	float: left;
+	top: 530px;
+	margin-left: 380px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.p11{
+	float: left;
+	top: 530px;
+	margin-left: 760px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.p12{
+	float: left;
+	top: 530px;
+	margin-left: 1150px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}

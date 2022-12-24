@@ -1,0 +1,105 @@
+<html>
+<head>
+	<title>Donation</title>
+	<style type="text/css">
+		body{
+			box-sizing: border-box;
+			padding: 40px;
+			background-color: lightgreen;
+		}
+		.for{
+			padding: 20px;
+			background-color: lightgreen;
+		}
+		  input[type=text]{
+            width: 250px;
+            margin: 5px 0;
+            padding: 10px 15px;
+            box-sizing: border-box;
+         }
+         hr {
+            border: 1px solid #f1f1f1;
+            margin-bottom: 25px;
+        }
+        .fl{
+        	float: left;
+        	position: absolute;
+        	top: 175px;
+        }
+        .fl1{
+        	position: absolute;
+        	float: right;
+        	top: 175px;
+        	left: 325px;
+        }
+        .back{
+        	position: absolute;
+        	left: 250px;
+        	top: 880px;
+        }
+        .don{
+        	position: absolute;
+        	right: 300px;
+        	top: 200px;
+        }
+        .don1{
+        	position: absolute;
+        	right: 300px;
+        	top: 600px;
+        }
+ 	</style>
+</head>
+<body>
+	<h1>Donation Form</h1>
+	<div class="for">
+    <label for="name"><b>Full Name</b></label><br>
+    <input type="text" required> <input type="text" required>
+    <div class="fl">
+    <p>First Name</p>
+    </div> 
+    <div class="fl1">
+    <p>last name</p>
+</div><br><br><br>
+    <label for="Blogid"><b>E-mail</b></label><br>
+    <input type="text" placeholder="ex: email@gmail.com" name="Email" id="Email" required><br>
+    <br><label for="Blogid"><b>Phone Number</b></label><br>
+    <input type="text" placeholder="(000-000-0000)" name="Phone No" id="Phone No" required><br>
+    <h4>Type Of Donation</h4>
+    <input type="radio" id="html" name="fav_language">
+    <label for="Love Offering">Love Offering</label><br>
+    <input type="radio" id="css" name="fav_language">
+    <label for="One Time Donation">One Time Donation</label><br>
+    <input type="radio" id="javascript" name="fav_language">
+    <label for="For Building up">For Building up</label><br>
+    <h4>Comments</h4>
+    <textarea name="paragraph" rows="5" cols="50"></textarea><br>
+    <h4>Donation Amount</h4>
+    <input type="text" required><br>
+    <h4>Donation Method</h4>
+    <input type="radio" id="html" name="fav_language">
+    <label for="Debit Card">Debit Card</label><br>
+    <input type="radio" id="css" name="fav_language">
+    <label for="Credit card">Credit card</label><br><br>
+    <button onclick="alt()">Donate</button>
+      <script>
+      function alt() {
+      alert("Doanted Successfully");
+      }
+      </script>
+</div>
+<div class="back">
+      <button onclick="goback()">Back</button>
+  </div>
+      <script>
+      function goback() {
+      window.history.back();
+      }
+      </script>
+      <div class="don">
+      <img src="do1.jpg" width="350" height="190">
+  </div>
+  <div class="don1">
+      <img src="do2.jpg" width="350" height="190">
+  </div>
+</body>
+</html>

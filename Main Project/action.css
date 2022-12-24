@@ -1,0 +1,81 @@
+.act1{
+	float: left;
+	top: 70px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.act2{
+	float: left;
+	top: 70px;
+	margin-left: 380px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.act3{
+	float: right;
+	top: 70px;
+	margin-left: 760px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.act4{
+	float: right;
+	top: 70px;
+	margin-left: 1150px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.act5{
+	float: left;
+	top: 300px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.act6{
+	float: left;
+	top: 300px;
+	margin-left: 380px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.act7{
+	float: right;
+	top: 300px;
+	margin-left: 760px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.act8{
+	float: right;
+	top: 300px;
+	margin-left: 1150px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.act9{
+	float: left;
+	top: 530px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.act10{
+	float: left;
+	top: 530px;
+	margin-left: 380px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.act11{
+	float: right;
+	top: 530px;
+	margin-left: 760px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
+.act12{
+	float: right;
+	top: 530px;
+	margin-left: 1150px;
+	position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+}
